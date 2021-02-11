@@ -2,7 +2,7 @@
 
 tawar remastered is a remaster of the tawar game made by Hirami
 
-Releases:
+Releases: https://github.com/LilMurat/tawarRemastered/releases/tag/1.0
 
 Download the original game: https://github.com/Hiramii/tawar
 
